@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Interested in Artificial Intelligence & Machine Learning.<br>🤖 Currently building AI Agents and LLM-based applications<br>⚙️ Learning API development, model deployment, and full-stack SaaS systems<br>🗄️ Exploring MongoDB and backend architecture design<br>🧠 Learning end-to-end AI model development (data → training → deployment)<br></p>
+<p align="left">🎯 Interested in Artificial Intelligence & Machine Learning.<br>🤖 Currently building AI Agents and LLM-based applications<br>⚙️ Learning API development, model deployment, and full-stack SaaS systems<br>🗄️ Exploring MongoDB and backend architecture design<br>🧠 Learning end-to-end AI model development (data → training → deployment</p>
 
 ###
 
@@ -31,12 +31,15 @@
 ###
 
 <h2 align="left">⚡ Fun Fact</h2>
-<p>I believe consistency beats talent 🚀</p>
+
+###
+
+<p align="left">I believe consistency beats talent 🚀</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/view/gladgers-hacker-gers-guardians-of-galaxy-gladgers-hacker-man-gers-gif-3585939294345148790"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
@@ -81,15 +84,13 @@
   <a href="www.linkedin.com/in/sanjai-jayabal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxnjai23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sxnjai23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxnjai23&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
