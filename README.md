@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Interested in Artificial Intelligence & Machine Learning.<br>🤖 Currently building AI Agents and LLM-based applications<br>⚙️ Learning API development, model deployment, and full-stack SaaS systems<br>🗄️ Exploring MongoDB and backend architecture design<br>🧠 Learning end-to-end AI model development (data → training → deployment)<br><br>🎲 Fun fact: ...</p>
+<p align="left">🎯 Interested in Artificial Intelligence & Machine Learning.<br>🤖 Currently building AI Agents and LLM-based applications<br>⚙️ Learning API development, model deployment, and full-stack SaaS systems<br>🗄️ Exploring MongoDB and backend architecture design<br>🧠 Learning end-to-end AI model development (data → training → deployment)<br></p>
 
 ###
 
